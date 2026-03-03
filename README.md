@@ -8,7 +8,7 @@
 <hr>
 
 ### Tecnologias
-  ReverseShell Network Detection: 
+  * ReverseShell Network Detection:  Kali linux, Netcat, Metasploit, Wireshark
 
 <hr>
 
