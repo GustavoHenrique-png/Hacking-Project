@@ -4,7 +4,7 @@
 ## Descrição do Projeto
 ### Projeto desenvolvido para o estudo e desenvolvimento de projetos relacionados a hacking
 * O projeto consiste em uma série de projetos desenvolvidos com seus respectivos relatórios relacionados a área de segurança da informação
-* A primeira ferramente é ReverseShell Network Detection baseada em gerar shells reversas a analisar as capturas de pacote para identificar comportamentos anormais, conexões para servidores externos e portas suspeitas
+  * A primeira ferramente é ReverseShell Network Detection baseada em gerar shells reversas a analisar as capturas de pacote para identificar comportamentos anormais, conexões para servidores externos e portas suspeitas
 <hr>
 
 ### Tecnologias
