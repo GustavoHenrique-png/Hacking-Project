@@ -1,0 +1,4 @@
+Reverse Shell:
+    Técnica maliciosa para tomar controle do sistema utilizando prompts para que se possa executar comandos a partir dele
+    Estabelece uma conexão com o alvo a aprtir de uma falha de volta ao servidor atacante plantando uma carga útil
+    A carga útil é um script que inicia a conexão com o servidor do atacante geralmente feita por TCP ou HTTP
