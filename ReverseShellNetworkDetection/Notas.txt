@@ -2,3 +2,10 @@ Reverse Shell:
     Técnica maliciosa para tomar controle do sistema utilizando prompts para que se possa executar comandos a partir dele
     Estabelece uma conexão com o alvo a aprtir de uma falha de volta ao servidor atacante plantando uma carga útil
     A carga útil é um script que inicia a conexão com o servidor do atacante geralmente feita por TCP ou HTTP
+
+    Ambiente: Atacante - Parrot OS - netcat
+              Vitima - Linux Mint
+              Monitor - Parrot OS - Wireshark
+    
+    Teste:    Criar uma rede privada entre as 3 VM's, conectar o atacante a vitima, e enviar shells, 
+utilizar o wireshark para ler os logs e reportar anomalias
