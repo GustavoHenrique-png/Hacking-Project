@@ -8,7 +8,7 @@
 <hr>
 
 ### Tecnologias
-  * ReverseShell Network Detection:  Kali linux, Netcat, Metasploit, Wireshark
+  * PortScanner:  Python 3, Socket, Threading, Argparse, TCP/IP, TCP 3-Way Handshake, DNS, CLI
 
 <hr>
 
