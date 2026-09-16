@@ -4,11 +4,11 @@
 ## Descrição do Projeto
 ### Projeto desenvolvido para o estudo e desenvolvimento de projetos relacionados a hacking
 * O projeto consiste em uma série de projetos desenvolvidos com seus respectivos relatórios relacionados a área de segurança da informação
-  * A primeira ferramente é ReverseShell Network Detection baseada em gerar shells reversas a analisar as capturas de pacote para identificar comportamentos anormais, conexões para servidores externos e portas suspeitas
+  * Um port scanner baseado em TCP 3-way handshake, desenvolvido para verificar a disponibilidade de portas TCP em um endereço IP ou domínio.
 <hr>
 
 ### Tecnologias
-  * ReverseShell Network Detection:  Kali linux, Netcat, Metasploit, Wireshark
+  * PortScanner:  Python 3, Socket, Threading, Argparse, TCP/IP, TCP 3-Way Handshake, DNS, CLI
 
 <hr>
 
