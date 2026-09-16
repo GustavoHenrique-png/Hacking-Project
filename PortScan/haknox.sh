@@ -20,7 +20,7 @@ ART="""\n
 
 \n"""
 
-def _main():
+def main():
 
     print(ART)
     
@@ -30,7 +30,7 @@ def _main():
     except:
         pass
 
-if __name__ = '__main__':
-main()
+if __name__ == '__main__':
+    main()
 
 EOF
